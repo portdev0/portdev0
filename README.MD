@@ -1,5 +1,7 @@
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=portdev0&show_icons=true&theme=radical)
+<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
 
-## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=portdev0&theme=radical)
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=portdev0&theme=onedark" />
+</p>
